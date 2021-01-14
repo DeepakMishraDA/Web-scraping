@@ -1,1 +1,2 @@
 In this project we create a database in Mysql.It starts with Web scraping of various products details from the Amazon e-commerce website. Then the scraped information is processed in a structured way and uploaded into multiple tables in Mysql database.Later on Sql-queries are made to fetch information from the gathered data and further analysis is done.
+The 'create_search_urls.py' are to create web-page urls from where we scrape our data. 
