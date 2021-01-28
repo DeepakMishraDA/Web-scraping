@@ -1,7 +1,7 @@
-Web scraping of details of products and their urls from "wwww.amazon.com".
+> ##Web scraping of details of products and their urls from "wwww.amazon.com".
+---
 
 ## Scrape
----
 <!--  OL -->
 1. Scraping the data
     * Imports
