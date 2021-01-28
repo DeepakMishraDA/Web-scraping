@@ -1,4 +1,4 @@
-> ## Web scraping of details of products and their urls from "wwww.amazon.com".
+> ## Web scraping of products details and their urls from "wwww.amazon.com".
 ---
 
 ## Scrape
